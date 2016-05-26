@@ -184,7 +184,7 @@
   },
   {
     "poolName": "Polmine.pl",
-    "url": "https://polmine.pl/‎",
+    "url": "https://polmine.pl",
     "searchStrings": [
       "by polmine.pl"
     ]
@@ -197,10 +197,10 @@
     ]
   },
   {
-    "poolName": "Slush",
-    "url": "https://mining.bitcoin.cz/",
+    "poolName": "SlushPool",
+    "url": "https://slushpool.com/",
     "searchStrings": [
-      "slush"
+      "/slush/"
     ]
   },
   {
